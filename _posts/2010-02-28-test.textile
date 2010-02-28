@@ -1,0 +1,13 @@
+---
+layout: post
+title: Testing Jekyll and Github
+---
+
+h1. {{ page.title }}
+
+p(meta). metadata
+
+h2. Heading
+
+Text
+

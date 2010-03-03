@@ -9,5 +9,5 @@ p(meta). 2010-03-03
 
 h2. Autocompleter.DWR
 
-https://www.google.com/accounts/ServiceLogin?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fui%3Dhtml%26zy%3Dl&bsv=zpwhtygjntrz&ss=1&scc=1&ltmpl=default&ltmplcache=2
+<script src="http://gist.github.com/319055.js?file=autocompleter-dwr.js"></script>
 
